@@ -238,7 +238,7 @@
             if ("musicUrl" === r) return C[e].musicUrl(t.musicInfo, t.type).catch(e => Promise.reject(e))
         }), {});
     for ([y, k] of Object.entries(C)) b[y] = k.info;
-    if (F && ("無名" != F.name || "不惊扰别人的宁静，就是慈悲；不伤害别人的自尊，就是善良 无云控，纯本地" != F.description)) throw new Error("请不要修改脚本名字或简介，当然如果你想做那个令人瞧不起的人就请删掉这段代码");
+    if (F && ("無名" != F.name || "不惊扰别人的宁静，就是慈悲；不伤害别人的自尊，就是善良 无云控，纯本地" != F.description || "helloplhm-qwq" != F.author)) throw new Error("ps：请不要修改脚本名字、简介和作者名字，请尊重原创，当然如果你想做那个令人瞧不起的人就请删掉这段代码");
     t(e.inited, {
         status: !0,
         openDevTools: !1,
