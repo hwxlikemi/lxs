@@ -9,12 +9,12 @@ Lx music音乐源脚本聚集地
 
 在线导入 导入源脚本【强烈推荐】
 
-在输入框内 输入 ```https://raw.kkgithub.com/hwxlikemi/lx-source/main/文件名.js```
+在输入框内 输入 ```https://raw.kkgithub.com/hwxlikemi/lxs/main/文件名.js```
 
 
 -  或者 
 
-输入```https://raw.cachefly.998111.xyz/hwxlikemi/lx-source/main/文件名.js```
+输入```https://raw.cachefly.998111.xyz/hwxlikemi/lxs/main/文件名.js```
 
 
 
