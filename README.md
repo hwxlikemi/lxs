@@ -24,9 +24,12 @@ Lx music音乐源脚本聚集地
 输入```https://raw.cachefly.998111.xyz/hwxlikemi/lxs/main/文件名.js```
 
 
+---
 
 
-提示：“sixyinapi.js” 可能因为文件太大的原因而在线导入失败！
+> [!CAUTION]
+> - “sixyinapi.js” 可能因为文件太大的原因而在线导入失败！
+
 
 
 - 方法二
