@@ -28,7 +28,7 @@ Lx music音乐源脚本聚集地
 
 
 > [!CAUTION]
-> - “sixyinapi.js” 可能因为文件太大的原因而在线导入失败！
+> - “sixyinapi.js” 和 “sixyin120.js” 可能因为文件太大的原因而在线导入失败！
 
 
 
