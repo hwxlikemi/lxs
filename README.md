@@ -37,7 +37,7 @@ Lx music音乐源脚本聚集地
 本地导入，~~这里的步骤过于简单，就不啰嗦了~~
 
 ---
-> [!NOTE]
+> [!important]
 > - 点击链接加入群聊【OneMusic - lx音源讨论群】：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wcEe6Gd8EXvvrCtdr1Nq89KYiL6hCpBs&authKey=FSy8GT5r7r6zg53LTVueB%2BPYkHAXaLifkTYSfrQOB%2Ffx8cUfhjWHyhTHMVWrMyuU&noverify=0&group_code=980301509
 ---
 
