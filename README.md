@@ -21,7 +21,7 @@ Lx music音乐源脚本聚集地
 
 -  或者 
 
-输入```https://jsdelivr.b-cdn.net/gh/hwxlikemi/lxs@main/文件名.js```
+输入```https://gh.sixyin.com/https://raw.githubusercontent.com/lyswhut/lx-music-source/master/dist/文件名.js```
 
 
 ---
