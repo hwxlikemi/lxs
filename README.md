@@ -3,7 +3,7 @@
 
 ---
 > [!NOTE]
-> - 使用前请先看看[公告](https://github.com/hwxlikemi/lxs/issues/2)
+> - 使用前请先看看[我的博客](https://hwxlikemi.github.io/blog/post/yi-xie-guan-yu-Lx%20Music-yin-yuan-de-wen-ti.html)（**可能需要魔法或者加速器**）
 > - 本仓库名字“lxs”为“lx source”的缩写
 ---
 
