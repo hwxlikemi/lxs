@@ -3,6 +3,7 @@
 
 ---
 > [!NOTE]
+> - 使用前可以先看看[公告栏](https://github.com/hwxlikemi/lxs/issues/2)
 > - 本仓库名字“lxs”为“lx source”的缩写
 ---
 
