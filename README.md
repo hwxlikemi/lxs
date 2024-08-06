@@ -22,7 +22,7 @@
 
 -  或者 
 
-输入```https://gh.sixyin.com/https://raw.githubusercontent.com/lyswhut/lx-music-source/master/dist/文件名.js```
+输入```https://gh.sixyin.com/https://raw.githubusercontent.com/hwxlikemi/lxs/main/文件名.js```
 
 
 ---
