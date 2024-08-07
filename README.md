@@ -1,4 +1,4 @@
-# Lx Music音乐源脚本聚集地
+![lxs](https://socialify.git.ci/hwxlikemi/lxs/image?description=1&descriptionEditable=Lx%20Music%20Sources%0ALx%20Music%E9%9F%B3%E4%B9%90%E6%BA%90%E8%84%9A%E6%9C%AC%E8%81%9A%E9%9B%86%E5%9C%B0&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159146868%3Fv%3D4&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
 
 ---
