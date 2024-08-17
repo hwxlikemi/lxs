@@ -4,6 +4,7 @@
 ---
 > [!NOTE]
 > - 使用前请先看看[我的博客](https://hwxlikemi.github.io/blog/post/yi-xie-guan-yu-Lx%20Music-yin-yuan-de-wen-ti.html)（**可能需要魔法或者加速器**）
+> - **最近发现很多人还不会手动请求ikun公益音源的臻品母带音质（即 Lx Music API Server 扩展音质请求）也可先看看[我的博客](https://hwxlikemi.github.io/blog/post/LX%20Music%20Api%20Server-shou-dong-qing-qiu-%20-deng-%20-jiang-jie.html)**
 > - 本仓库名字“lxs”为“lx source”的缩写
 ---
 
