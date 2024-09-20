@@ -277,6 +277,5 @@ on(EVENT_NAMES.request, ({ action, source, info }) => {
 })
 
 // 检查更新
-if (UPDATE_ENABLE) checkUpdate()
 // 向 LX Music 发送初始化成功事件
 send(EVENT_NAMES.inited, { status: true, openDevTools: DEV_ENABLE, sources: musicSources })
