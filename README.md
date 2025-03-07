@@ -41,7 +41,8 @@
 
 ---
 > [!important]
-> - [点我加入QQ群【OneMusic - lx音源讨论群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wcEe6Gd8EXvvrCtdr1Nq89KYiL6hCpBs&authKey=FSy8GT5r7r6zg53LTVueB%2BPYkHAXaLifkTYSfrQOB%2Ffx8cUfhjWHyhTHMVWrMyuU&noverify=0&group_code=980301509)   (有临时音源可用) (因为项目发展初期群里人少是正常的，进了就别退了)
+> - [点我加入QQ群【OneMusic - lx音源讨论群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wcEe6Gd8EXvvrCtdr1Nq89KYiL6hCpBs&authKey=FSy8GT5r7r6zg53LTVueB%2BPYkHAXaLifkTYSfrQOB%2Ffx8cUfhjWHyhTHMVWrMyuU&noverify=0&group_code=980301509)   (有临时音源可用) (因为项目发展初期群里人少是正常的，进了就别退了) 
+> - [点击我加入群聊【lx音源讨论群（2群）】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=eAo3olnyDVkIwINuCl_wbwdz8i8Lw3yv&authKey=YF2U8z2WMt0GM8Xg14sHvYfMlZYKZzqEy7mZ2SRJGLI9ZeiXD0mDHCSBkaDbtAVq&noverify=0&group_code=984841265)      （一群几乎已满）
 ---
 
 ps:本仓库所有文件均来源于网络，收集纯个人兴趣
