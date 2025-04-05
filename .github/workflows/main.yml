@@ -17,7 +17,7 @@ jobs:
 
       - name: Unzip file
         run: |
-          unzip -o hwxhome.zip -d .
+          unzip -o lxs.zip -d .
           ls -al
 
       - name: Commit changes
