@@ -1,6 +1,6 @@
 ![lxs](https://socialify.git.ci/hwxlikemi/lxs/image?description=1&descriptionEditable=Lx%20Music%20Sources%0ALx%20Music%E9%9F%B3%E4%B9%90%E6%BA%90%E8%84%9A%E6%9C%AC%E8%81%9A%E9%9B%86%E5%9C%B0&font=Source%20Code%20Pro&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F159146868%3Fv%3D4&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Auto)
 
-# ikun音源从即日起使用收费制，如想继续使用免费ikun音源请进Q群
+# ikun音源从即日起使用收费制，如想继续使用免费ikun音源请进Q群（仓库音源已停更，请加Q群，群内持续更新音源）
 
 ---
 > [!NOTE]
@@ -43,7 +43,7 @@
 ---
 > [!important]
 > - [点我加入QQ群【OneMusic - lx音源讨论群】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wcEe6Gd8EXvvrCtdr1Nq89KYiL6hCpBs&authKey=FSy8GT5r7r6zg53LTVueB%2BPYkHAXaLifkTYSfrQOB%2Ffx8cUfhjWHyhTHMVWrMyuU&noverify=0&group_code=980301509)   (有临时音源可用) (因为项目发展初期群里人少是正常的，进了就别退了) 
-> - [点击我加入群聊【lx音源讨论群（2群）】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=eAo3olnyDVkIwINuCl_wbwdz8i8Lw3yv&authKey=YF2U8z2WMt0GM8Xg14sHvYfMlZYKZzqEy7mZ2SRJGLI9ZeiXD0mDHCSBkaDbtAVq&noverify=0&group_code=984841265)      （一群几乎已满）
+> - [点击我加入群聊【lx音源讨论群（2群）】](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=eAo3olnyDVkIwINuCl_wbwdz8i8Lw3yv&authKey=YF2U8z2WMt0GM8Xg14sHvYfMlZYKZzqEy7mZ2SRJGLI9ZeiXD0mDHCSBkaDbtAVq&noverify=0&group_code=984841265)     (进群密钥：**H5W9XLI5-40KE-76MI-B80A-72F243**) (有临时音源可用)（一群已满）
 ---
 
 ps:本仓库所有文件均来源于网络，收集纯个人兴趣
